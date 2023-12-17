@@ -1,4 +1,4 @@
-# tercon 
+# termcon 
 basic shell based wi-fi connection script
 # Installation
 git clone https://github.com/Fury0us/termcon
